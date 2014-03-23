@@ -18,3 +18,5 @@ return array(
 ```
 
 If your web server does not support URL rewrite, set the short_urls option to false in config.common.php.
+
+To install dependencies, run `composer install`.
