@@ -1,6 +1,5 @@
 <?php
 
-use Application\Helpers\CachingRouteParser;
 use Miny\Application\Application;
 
 require_once 'vendor/autoload.php';
