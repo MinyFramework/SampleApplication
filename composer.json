@@ -1,0 +1,15 @@
+{
+    "name": "miny/app_skeleton",
+    "description": "A Hello World application for the Miny Framework.",
+    "minimum-stability": "dev",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Buga Dániel",
+            "email": "bugadani@gmail.com"
+        }
+    ],
+    "require": {
+        "miny/framework": "dev-master"
+    }
+}
