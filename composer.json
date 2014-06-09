@@ -1,6 +1,6 @@
 {
-    "name": "miny/app_skeleton",
-    "description": "A Hello World application for the Miny Framework.",
+    "name": "bugadani/md",
+    "description": "A simple application that displays pages from markdown source. Based on the Miny Framework.",
     "minimum-stability": "dev",
     "license": "mit",
     "authors": [
@@ -10,6 +10,8 @@
         }
     ],
     "require": {
-        "miny/framework": "dev-master"
+        "miny/framework": "dev-master",
+        "miny/markdown": "dev-master",
+        "miny/templating": "dev-master"
     }
 }

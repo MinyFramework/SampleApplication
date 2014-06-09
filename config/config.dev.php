@@ -4,6 +4,6 @@
 
 return array(
     'router' => array(
-        'prefix' => '/'
+        'prefix' => '/md/'
     )
 );
