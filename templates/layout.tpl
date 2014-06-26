@@ -5,7 +5,7 @@
     <title>Sample app</title>
 </head>
 <body>
-{ block content }
-{ endblock }
+{block content}
+{/block}
 </body>
 </html>

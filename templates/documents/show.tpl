@@ -1,5 +1,5 @@
 {extends 'layout'}
 
-{ block content }
-{ $content|md }
-{ endblock }
+{block content}
+{$content|md}
+{/block}

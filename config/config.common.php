@@ -12,7 +12,7 @@ return array(
     ),
     'Templating' => array(
         'codes' => array(
-            404 => 'errors/404'
+            404 => 'errors/error_404'
         )
     ),
     'document_root' => '{@root}/docs/'

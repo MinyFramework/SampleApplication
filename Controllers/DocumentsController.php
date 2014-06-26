@@ -8,7 +8,7 @@ use Miny\HTTP\Request;
 class DocumentsController extends Controller
 {
     /**
-     * @template documents/show
+     * @template "documents/show"
      */
     public function indexAction(Request $request)
     {
@@ -19,7 +19,7 @@ class DocumentsController extends Controller
     }
 
     /**
-     * @template documents/show
+     * @template "documents/show"
      */
     public function showAction(Request $request)
     {
